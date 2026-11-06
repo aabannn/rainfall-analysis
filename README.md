@@ -18,3 +18,7 @@ IMD subdivision rainfall data (Kaggle: "Rainfall in India"), filtered to Kerala:
 - Wettest decade: 1920s (3188.8 mm/yr). Driest: 1980s (2456.3 mm/yr).
 - No steady long-term decline: a dry stretch in the 1970s-80s, then recovery to about 3000 mm in the 1990s.
 - 69.1% of annual
+
+## Graphs
+<img width="1275" height="701" alt="monthly_rainfall" src="https://github.com/user-attachments/assets/91b16d08-d92a-43d2-ab3c-1f479515d3ff" />
+<img width="990" height="749" alt="annual_rainfall" src="https://github.com/user-attachments/assets/424386c0-8a2b-4390-9c12-12bb6aacee13" />
